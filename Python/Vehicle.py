@@ -1,3 +1,7 @@
+#Saya Muhammad Alfi faiz NIM 2207045 mengerjakan
+#soal Latihan 2 dalam mata kuliah Desain Pemograman Berorientasi Objek
+#untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
 class Vehicle:
     def __init__(self, plat_nomor, merk, tahun_produksi, warna):
         # Inisialisasi atribut-atribut kendaraan
