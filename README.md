@@ -1,3 +1,7 @@
+# janji
+Saya Muhammad Alfi faiz NIM 2207045 mengerjakan soal Latihan 2 dalam mata kuliah Desain Pemograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+
 # Program OOP dengan Inheritance, Composition, dan Array of Objects (C++ dan Python)
 
 program sederhana berbasis Pemrograman Berorientasi Objek (OOP) yang diimplementasikan dalam bahasa C++ dan Python. Program ini memperlihatkan konsep inheritance, composition, dan array of objects menggunakan kelas-kelas berikut:
