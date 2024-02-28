@@ -1,3 +1,7 @@
+#Saya Muhammad Alfi faiz NIM 2207045 mengerjakan
+#soal Latihan 2 dalam mata kuliah Desain Pemograman Berorientasi Objek
+#untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
 # Import kelas-kelas yang dibutuhkan
 from Vehicle import Vehicle
 from Car import Car
